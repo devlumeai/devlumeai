@@ -177,23 +177,6 @@ Structured, transparent Agile delivery — you always know exactly where your pr
 
 ---
 
-## 📁 Repository Structure
-
-```
-devlume-ai/
-├── 📂 assets/           # Logos, branding & media
-│   └── logo.png         # ← Upload your logo here!
-├── 📂 web/              # Web development projects & templates
-├── 📂 mobile/           # Mobile app boilerplates
-├── 📂 crm/              # CRM modules & integrations
-├── 📂 erp/              # ERP system components
-├── 📂 ai-automation/    # AI agents, bots & automation scripts
-├── 📂 docs/             # Documentation & guides
-└── 📄 README.md
-```
-
----
-
 ## 📬 Let's Build Something Together
 
 <div align="center">
