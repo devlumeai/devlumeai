@@ -213,7 +213,7 @@ devlume-ai/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devlume_AI-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/company/devlume-ai](https://www.linkedin.com/company/devlume-ai ))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devlume_AI-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/devlume-ai)
 [![Website](https://img.shields.io/badge/Website-devlumeai.com-2563EB?style=flat-square)](https://devlumeai.com)
 
 </div>
