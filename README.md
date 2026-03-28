@@ -1,27 +1,32 @@
 <div align="center">
 
-<!-- Logo -->
-<img src="https://raw.githubusercontent.com/devlumeai/devlume-ai/main/assets/logo.png" alt="Devlume AI Logo" width="120" height="120" />
+<!-- 
+  ⚠️ LOGO SETUP:
+  1. Create "assets" folder in your repo
+  2. Upload your logo.png there
+  3. It will appear automatically below!
+-->
+
+<img src="https://raw.githubusercontent.com/devlumeai/devlume-ai/main/assets/logo.png" alt="Devlume AI" width="130"/>
 
 <br/>
 
-# 🚀 Devlume AI
+# Devlume AI
 
 ### *Intelligent Digital Solutions for the Modern Enterprise*
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-Devlume_AI-2563EB?style=for-the-badge)](https://devlumeai.com)
-[![Contact](https://img.shields.io/badge/📧_Contact-hello@devlumeai.com-6366F1?style=for-the-badge)](mailto:hello@devlumeai.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/devlume-ai)
-[![Twitter](https://img.shields.io/badge/Twitter-@DevlumeAI-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devlumeai)
+[![Website](https://img.shields.io/badge/🌐_Website-devlumeai.com-2563EB?style=for-the-badge)](https://devlumeai.com)
+[![Email](https://img.shields.io/badge/📧_Email-hello@devlumeai.com-6366F1?style=for-the-badge)](mailto:hello@devlumeai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devlume_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devlume-ai)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
 
 <br/>
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/devlume-ai?style=flat-square&color=2563EB)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/devlume-ai?style=flat-square&color=6366F1)
-![GitHub Watchers](https://img.shields.io/github/watchers/yourusername/devlume-ai?style=flat-square&color=8B5CF6)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Stars](https://img.shields.io/github/stars/devlumeai/devlume-ai?style=flat-square&color=2563EB&label=⭐%20Stars)
+![Forks](https://img.shields.io/github/forks/devlumeai/devlume-ai?style=flat-square&color=6366F1&label=🍴%20Forks)
+![Visitors](https://komarev.com/ghpvc/?username=devlumeai&color=2563EB&style=flat-square&label=👁️+Profile+Views)
 
 </div>
 
@@ -31,7 +36,8 @@
 
 ## ✨ We Build. We Automate. We Elevate.
 
-*Devlume AI is a next-generation tech agency delivering scalable web platforms, intelligent mobile apps, enterprise-grade CRM & ERP systems, and cutting-edge AI automation — all under one roof.*
+*Devlume AI is a next-generation tech agency delivering scalable web platforms,*  
+*intelligent mobile apps, enterprise CRM & ERP systems, and cutting-edge AI automation.*
 
 </div>
 
@@ -46,15 +52,15 @@
 ### 🌐 Web Development
 Build lightning-fast, visually stunning websites and web applications with modern frameworks. From landing pages to full-scale SaaS platforms — pixel-perfect and production-ready.
 
-**Stack:** React · Next.js · Vue · Node.js · Laravel
+**Stack:** `React` `Next.js` `Vue` `Node.js` `Laravel`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 App Development
-Native and cross-platform mobile experiences crafted for performance and usability. iOS & Android apps that users love.
+Native and cross-platform mobile experiences crafted for performance and usability. iOS & Android apps that users love and keep coming back to.
 
-**Stack:** Flutter · React Native · Swift · Kotlin
+**Stack:** `Flutter` `React Native` `Swift` `Kotlin`
 
 </td>
 </tr>
@@ -64,15 +70,15 @@ Native and cross-platform mobile experiences crafted for performance and usabili
 ### 🗂️ CRM Solutions
 Custom Customer Relationship Management systems tailored to your sales pipeline, team workflows, and business goals. Manage leads, track customers, close deals faster.
 
-**Tools:** Custom CRM · Salesforce · HubSpot Integration
+**Tools:** `Custom CRM` `Salesforce` `HubSpot`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 ERP Systems
-End-to-end Enterprise Resource Planning solutions to unify your finance, HR, inventory, procurement, and operations into a single intelligent platform.
+End-to-end Enterprise Resource Planning to unify your finance, HR, inventory, procurement, and operations into one intelligent platform.
 
-**Tools:** Odoo · Custom ERP · SAP Integration
+**Tools:** `Odoo` `Custom ERP` `SAP Integration`
 
 </td>
 </tr>
@@ -80,17 +86,17 @@ End-to-end Enterprise Resource Planning solutions to unify your finance, HR, inv
 <td width="50%" valign="top">
 
 ### 🤖 AI Automation
-Supercharge your business with intelligent automation. From AI-powered chatbots and workflow automation to predictive analytics and LLM-based agents.
+Supercharge your business with intelligent automation — AI chatbots, workflow automation, predictive analytics, and custom LLM-based agents built for your industry.
 
-**Stack:** OpenAI · LangChain · n8n · Python · GPT-4
+**Stack:** `OpenAI` `LangChain` `n8n` `Python` `GPT-4`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔧 Custom Software
-Got a unique challenge? We design and build bespoke software solutions from scratch — scalable, secure, and built around your exact requirements.
+Got a unique challenge? We design and build bespoke software solutions from scratch — scalable, secure, and built exactly around your requirements.
 
-**Approach:** Agile · MVP First · Iterative Delivery
+**Approach:** `Agile` `MVP First` `Iterative Delivery`
 
 </td>
 </tr>
@@ -101,16 +107,16 @@ Got a unique challenge? We design and build bespoke software solutions from scra
 ## 💡 Why Choose Devlume AI?
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🎯  Result-Driven     →  We focus on outcomes, not just code  │
-│   ⚡  Fast Delivery     →  Agile sprints, on-time every time    │
-│   🔒  Enterprise-Grade  →  Secure, scalable, battle-tested      │
-│   🤝  Full Support      →  Post-launch support & maintenance    │
-│   🌍  Global Clients    →  Serving startups to Fortune 500s     │
-│   🧠  AI-First Mindset  →  Automation built into everything     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   🎯  Result-Driven      →  We focus on outcomes, not just code      │
+│   ⚡  Fast Delivery      →  Agile sprints, on-time every time        │
+│   🔒  Enterprise-Grade   →  Secure, scalable, battle-tested          │
+│   🤝  Full Support       →  Post-launch support & maintenance        │
+│   🌍  Global Reach       →  Serving startups to Fortune 500s         │
+│   🧠  AI-First Mindset   →  Automation built into everything         │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -150,31 +156,23 @@ Got a unique challenge? We design and build bespoke software solutions from scra
 
 ## 🗺️ Our Process
 
-```mermaid
-graph LR
-    A[🔍 Discovery] --> B[📐 Design]
-    B --> C[⚙️ Development]
-    C --> D[🧪 Testing]
-    D --> E[🚀 Launch]
-    E --> F[🔧 Support]
-    F --> A
+```
+🔍 Discovery ──► 📐 Design ──► ⚙️ Development ──► 🧪 Testing ──► 🚀 Launch ──► 🔧 Support
+      │                                                                               │
+      └───────────────────────────────── Continuous Improvement ────────────────────┘
 ```
 
-> **Discovery → Design → Development → Testing → Launch → Support → Repeat**
-
-We follow a structured, transparent process so you always know where your project stands.
+Structured, transparent Agile delivery — you always know exactly where your project stands.
 
 ---
 
 ## 🤖 AI Automation — Our Edge
 
-Devlume AI specializes in embedding intelligence into your business processes:
-
-- 💬 **AI Chatbots** — 24/7 customer support agents powered by GPT-4
-- 🔄 **Workflow Automation** — n8n, Zapier, and custom pipelines
-- 📊 **Predictive Analytics** — Turn your data into decisions
+- 💬 **AI Chatbots** — 24/7 intelligent customer support powered by GPT-4
+- 🔄 **Workflow Automation** — n8n, Zapier, and custom automation pipelines
+- 📊 **Predictive Analytics** — Turn your raw data into smart business decisions
 - 📝 **Document Automation** — AI-powered document processing & generation
-- 🧠 **Custom LLM Agents** — Purpose-built AI agents for your industry
+- 🧠 **Custom LLM Agents** — Purpose-built AI agents for your specific industry
 - 🔗 **API Integrations** — Connect everything with intelligent middleware
 
 ---
@@ -183,31 +181,15 @@ Devlume AI specializes in embedding intelligence into your business processes:
 
 ```
 devlume-ai/
+├── 📂 assets/           # Logos, branding & media
+│   └── logo.png         # ← Upload your logo here!
 ├── 📂 web/              # Web development projects & templates
 ├── 📂 mobile/           # Mobile app boilerplates
 ├── 📂 crm/              # CRM modules & integrations
 ├── 📂 erp/              # ERP system components
 ├── 📂 ai-automation/    # AI agents, bots & automation scripts
 ├── 📂 docs/             # Documentation & guides
-├── 📂 assets/           # Logos, branding, media
 └── 📄 README.md
-```
-
----
-
-## 🚀 Getting Started
-
-Whether you're a client exploring our portfolio or a developer joining our ecosystem:
-
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/devlume-ai.git
-
-# Navigate to the project
-cd devlume-ai
-
-# Explore our services
-ls -la
 ```
 
 ---
@@ -217,6 +199,8 @@ ls -la
 <div align="center">
 
 **Have a project in mind? We'd love to hear from you.**
+
+<br/>
 
 [![Book a Call](https://img.shields.io/badge/📅_Book_a_Free_Call-2563EB?style=for-the-badge)](https://calendly.com/devlumeai)
 [![Send Email](https://img.shields.io/badge/📧_Send_an_Email-6366F1?style=for-the-badge)](mailto:hello@devlumeai.com)
@@ -230,11 +214,8 @@ ls -la
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐-devlumeai.com-2563EB?style=flat-square)](https://devlumeai.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devlume_AI-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/devlume-ai)
-[![Twitter](https://img.shields.io/badge/Twitter-@DevlumeAI-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/devlumeai)
-[![Instagram](https://img.shields.io/badge/Instagram-@devlumeai-E4405F?style=flat-square&logo=instagram)](https://instagram.com/devlumeai)
-[![YouTube](https://img.shields.io/badge/YouTube-Devlume_AI-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@devlumeai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devlume_AI-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/company/devlume-ai](https://www.linkedin.com/company/devlume-ai ))
+[![Website](https://img.shields.io/badge/Website-devlumeai.com-2563EB?style=flat-square)](https://devlumeai.com)
 
 </div>
 
@@ -242,16 +223,10 @@ ls -la
 
 <div align="center">
 
-<br/>
-
-**⭐ If you find our work valuable, please star this repository!**
+**⭐ If you find our work valuable, please star this repository — it helps us grow!**
 
 <br/>
 
-*Built by the Devlume AI Team*
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=devlumeai&color=2563EB&style=flat-square&label=Profile+Views)
+*Built with ❤️ by the Devlume AI Team*
 
 </div>
