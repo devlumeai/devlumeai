@@ -7,7 +7,7 @@
   3. It will appear automatically below!
 -->
 
-<img src="https://raw.githubusercontent.com/devlumeai/devlume-ai/main/assets/assets/Glowing layered diamond logo-Photoroom.png" alt="Devlume AI" width="130"/>
+<img src="https://raw.githubusercontent.com/devlumeai/devlume-ai/main/assets/Glowing layered diamond logo-Photoroom.png" alt="Devlume AI" width="130"/>
 
 <br/>
 
