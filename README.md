@@ -18,9 +18,9 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_Website-devlumeai.com-2563EB?style=for-the-badge)](https://devlumeai.com)
-[![Email](https://img.shields.io/badge/📧_Email-hello@devlumeai.com-6366F1?style=for-the-badge)](mailto:hello@devlumeai.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devlume_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devlume-ai)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+[![Email](https://img.shields.io/badge/📧_devlumeai@gmail.com-6366F1?style=for-the-badge)](mailto:devlumeai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devlume_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/company/devlume-ai](https://www.linkedin.com/company/devlume-ai ))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923473653819)
 
 <br/>
 
@@ -227,6 +227,6 @@ devlume-ai/
 
 <br/>
 
-*Built with ❤️ by the Devlume AI Team*
+*Built by the Devlume AI Team*
 
 </div>
